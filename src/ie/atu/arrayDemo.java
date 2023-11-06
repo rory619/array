@@ -1,5 +1,6 @@
 package ie.atu;
 import java.util.ArrayList;
+
 public class arrayDemo {
     public static void main(String[] args) {
         //declares an array of integers
@@ -7,19 +8,17 @@ public class arrayDemo {
 
         //allocates memory for 10 integers
         anArray = new int[10];
-
-        //initialise first element
-        anArray[0] = 100;
-        //initialise second element
-        anArray[1] = 200;
-        anArray[2] = 300;
-        anArray[3] = 400;
-        anArray[4] = 500;
-        anArray[5] = 600;
-        anArray[6] = 700;
-        anArray[7] = 800;
-        anArray[8] = 900;
-        anArray[9] = 1000;
+        ArrayList<String> numbers = new ArrayList<String>();
+        numbers.add("100");
+        numbers.add("200");
+        numbers.add("300");
+        numbers.add("400");
+        numbers.add("500");
+        numbers.add("600");
+        numbers.add("700");
+        numbers.add("800");
+        numbers.add("900");
+        numbers.add("1000");
 
         int indexValue = 0;
         for (int value: anArray)
@@ -27,7 +26,11 @@ public class arrayDemo {
             System.out.println("Element at index 0:" + indexValue + value);
             indexValue++;
         }
-        ArrayList<String> Arrays = new ArrayList<>();
+
+
+
+        String value = numbers.get(1);
+        for (String element : numbers) System.out.println("Please enter a new number:");
 
 
 
