@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bf5772c6-91aa-47a5-9095-daf1305b5a06" name="Changes" comment="committing files for array project">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/arrayDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ie/atu/arrayDemo.java" afterDir="false" />
+    <list default="true" id="bf5772c6-91aa-47a5-9095-daf1305b5a06" name="Changes" comment="committing files for array project, made an array demo">
+      <change afterPath="$PROJECT_DIR$/src/ie/atu/ArrayListDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ie/atu/arrayDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ie/atu/arrayDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +56,7 @@
       <option name="presentableId" value="Default" />
       <updated>1699262585024</updated>
       <workItem from="1699262586039" duration="1430000" />
-      <workItem from="1699264058809" duration="844000" />
+      <workItem from="1699264058809" duration="2178000" />
     </task>
     <task id="LOCAL-00001" summary="committing files for array project">
       <created>1699263102144</created>
@@ -65,7 +65,14 @@
       <option name="project" value="LOCAL" />
       <updated>1699263102144</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="committing files for array project, made an array demo">
+      <created>1699265069465</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1699265069465</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -84,6 +91,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="committing files for array project" />
-    <option name="LAST_COMMIT_MESSAGE" value="committing files for array project" />
+    <MESSAGE value="committing files for array project, made an array demo" />
+    <option name="LAST_COMMIT_MESSAGE" value="committing files for array project, made an array demo" />
   </component>
 </project>

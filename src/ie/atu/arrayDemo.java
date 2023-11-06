@@ -1,6 +1,5 @@
 package ie.atu;
-
-
+import java.util.ArrayList;
 public class arrayDemo {
     public static void main(String[] args) {
         //declares an array of integers
@@ -28,6 +27,9 @@ public class arrayDemo {
             System.out.println("Element at index 0:" + indexValue + value);
             indexValue++;
         }
+        ArrayList<String> Arrays = new ArrayList<>();
+
+
 
 
     }
